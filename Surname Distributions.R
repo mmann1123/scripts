@@ -36,6 +36,6 @@ data = data.frame(
 
 data = t(data)
 
-sum(data[1:11])
+sum(data[1:11]) #A-J
 [1] 0.4936777
 
